@@ -1,0 +1,19 @@
+1) When PC1 pings PC4, what type of packet is sent to the hub initially? Can you prove it?
+Pour répondre à cette question tu dois d'abord ping ensuite utiliser le arp -a pour savoir à quel.
+La réponse est Arp broadcast.
+
+2) PC2, PC3, PC4
+3) PC1, PC3, PC4
+4)  PC2, PC3, PC4
+
+5) Arp broadcast.
+6) PC7, PC6, PC8
+7) P5
+8) P8
+9) single broadcast domain. in networking 1. uniquement peut envoyer des requettes à la fois.
+10) single broadcast domain. in networking 2
+12) Network 1= 1 collision domain
+
+---------------------------------------
+
+Networ 2
